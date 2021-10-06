@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//Contributer : Isha Bansal
 int fun(string s){
     int n =s.length();
     int ans = 0;
